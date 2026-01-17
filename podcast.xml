@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 17 Jan 2026 14:56:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 15:55:23 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -397,6 +397,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260117_2355.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 17 Jan 2026 23:56:07 +0900</pubDate>
       <itunes:duration>577</itunes:duration>
+    </item>
+    <item>
+      <title>3Dプリンターの失敗作 - ケンモ怪談 - 01/18 00:55</title>
+      <description>KenmoFM 怪談コーナー</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260118_0055.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260118_0055.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Jan 2026 00:55:23 +0900</pubDate>
+      <itunes:duration>457</itunes:duration>
     </item>
   </channel>
 </rss>
