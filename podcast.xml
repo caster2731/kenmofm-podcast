@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 17 Jan 2026 22:18:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 22:53:30 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -525,6 +525,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260118_0718.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 18 Jan 2026 07:18:19 +0900</pubDate>
       <itunes:duration>132</itunes:duration>
+    </item>
+    <item>
+      <title>【朗報】イーロン・マスクもう今後、老後とか考えてお金貯めても... - 本文読み上げ - 01/18 07:53</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260118_0753.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260118_0753.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Jan 2026 07:53:30 +0900</pubDate>
+      <itunes:duration>353</itunes:duration>
     </item>
   </channel>
 </rss>
