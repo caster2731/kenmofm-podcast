@@ -7,9 +7,16 @@
     <atom:link href="https://caster2731.github.io/kenmofm-podcast/podcast.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
+    <image>
+      <url>https://caster2731.github.io/kenmofm-podcast/cover.jpg</url>
+      <title>KenmoFM Podcast</title>
+      <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
+    </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 17 Jan 2026 06:37:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 06:44:00 +0000</lastBuildDate>
+    <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="Technology"/>
+    <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
       <itunes:name>KenmoFM</itunes:name>
