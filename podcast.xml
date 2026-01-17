@@ -8,12 +8,44 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 17 Jan 2026 06:37:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 06:37:40 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
       <itunes:name>KenmoFM</itunes:name>
       <itunes:email>caster.radio2731@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>本文読み上げ - 12/03 14:00</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20251203_1400.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20251203_1400.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 03 Dec 2025 14:00:54 +0900</pubDate>
+      <itunes:duration>73</itunes:duration>
+    </item>
+    <item>
+      <title>スレタイ速報 - 12/18 20:20</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20251218_2020.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20251218_2020.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 18 Dec 2025 20:20:01 +0900</pubDate>
+      <itunes:duration>133</itunes:duration>
+    </item>
+    <item>
+      <title>本文読み上げ - 12/22 17:30</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20251222_1730.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20251222_1730.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Dec 2025 17:30:01 +0900</pubDate>
+      <itunes:duration>90</itunes:duration>
+    </item>
+    <item>
+      <title>スレタイ速報 - 01/17 15:35</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260117_1535.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260117_1535.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 17 Jan 2026 15:35:26 +0900</pubDate>
+      <itunes:duration>720</itunes:duration>
+    </item>
   </channel>
 </rss>
