@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 17 Jan 2026 19:17:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 19:19:01 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -469,6 +469,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260118_0417.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 18 Jan 2026 04:17:40 +0900</pubDate>
       <itunes:duration>107</itunes:duration>
+    </item>
+    <item>
+      <title>公明党一般党員立憲出身の候補を応援できる自信がない、、、は？... 他79件 - 01/18 04:19</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260118_0418.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260118_0418.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Jan 2026 04:19:01 +0900</pubDate>
+      <itunes:duration>770</itunes:duration>
     </item>
   </channel>
 </rss>
