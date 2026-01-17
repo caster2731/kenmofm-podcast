@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 17 Jan 2026 21:51:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 22:18:19 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -517,6 +517,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260118_0650.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 18 Jan 2026 06:51:12 +0900</pubDate>
       <itunes:duration>298</itunes:duration>
+    </item>
+    <item>
+      <title>昔ってギリ健かモロ障みたいなんがクラスに2～3人はいたよな 他29件 - 01/18 07:18</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260118_0718.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260118_0718.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Jan 2026 07:18:19 +0900</pubDate>
+      <itunes:duration>132</itunes:duration>
     </item>
   </channel>
 </rss>
