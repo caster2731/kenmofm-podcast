@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 17 Jan 2026 23:17:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 23:50:19 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -549,6 +549,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260118_0816.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 18 Jan 2026 08:17:10 +0900</pubDate>
       <itunes:duration>935</itunes:duration>
+    </item>
+    <item>
+      <title>【ネトウヨ悲報】河合ゆうすけさん、フィフィさんとの裁判に向け... - 本文読み上げ - 01/18 08:50</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260118_0849.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260118_0849.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Jan 2026 08:50:19 +0900</pubDate>
+      <itunes:duration>181</itunes:duration>
     </item>
   </channel>
 </rss>
