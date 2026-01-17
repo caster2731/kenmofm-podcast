@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 17 Jan 2026 17:15:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 17:17:04 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -429,6 +429,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260118_0215.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 18 Jan 2026 02:15:44 +0900</pubDate>
       <itunes:duration>0</itunes:duration>
+    </item>
+    <item>
+      <title>ホラー要素を加え、不気味に仕上げたピノキオの1/6スケール可... 他79件 - 01/18 02:17</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260118_0216.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260118_0216.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Jan 2026 02:17:04 +0900</pubDate>
+      <itunes:duration>804</itunes:duration>
     </item>
   </channel>
 </rss>
