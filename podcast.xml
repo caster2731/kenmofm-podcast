@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Jan 2026 17:21:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 17:55:48 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -781,6 +781,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260119_0219.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 19 Jan 2026 02:20:37 +0900</pubDate>
       <itunes:duration>855</itunes:duration>
+    </item>
+    <item>
+      <title>笑う自動販売機 - ケンモ怪談 - 01/19 02:55</title>
+      <description>KenmoFM 怪談コーナー</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260119_0255.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260119_0255.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Jan 2026 02:55:42 +0900</pubDate>
+      <itunes:duration>362</itunes:duration>
     </item>
   </channel>
 </rss>
