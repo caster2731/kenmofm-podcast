@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Jan 2026 04:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 04:17:10 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -597,6 +597,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260118_1300.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 18 Jan 2026 13:00:50 +0900</pubDate>
       <itunes:duration>229</itunes:duration>
+    </item>
+    <item>
+      <title>出産の数年後にADHD診断される母親が急増 他79件 - 01/18 13:17</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260118_1316.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260118_1316.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Jan 2026 13:17:10 +0900</pubDate>
+      <itunes:duration>655</itunes:duration>
     </item>
   </channel>
 </rss>
