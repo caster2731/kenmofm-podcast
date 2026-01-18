@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Jan 2026 14:17:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 14:55:49 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -733,6 +733,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260118_2316.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 18 Jan 2026 23:17:03 +0900</pubDate>
       <itunes:duration>705</itunes:duration>
+    </item>
+    <item>
+      <title>リモート会議の「背景」 - ケンモ怪談 - 01/18 23:55</title>
+      <description>KenmoFM 怪談コーナー</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260118_2355.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260118_2355.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Jan 2026 23:55:37 +0900</pubDate>
+      <itunes:duration>399</itunes:duration>
     </item>
   </channel>
 </rss>
