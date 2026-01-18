@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Jan 2026 20:53:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 21:17:41 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -837,6 +837,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260119_0552.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 19 Jan 2026 05:53:13 +0900</pubDate>
       <itunes:duration>301</itunes:duration>
+    </item>
+    <item>
+      <title>【悲報】少女漫画こいつが完全にオワコンになった理由 他79件 - 01/19 06:16</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260119_0616.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260119_0616.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Jan 2026 06:16:55 +0900</pubDate>
+      <itunes:duration>901</itunes:duration>
     </item>
   </channel>
 </rss>
