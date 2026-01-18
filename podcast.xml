@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Jan 2026 09:52:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 10:20:16 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -677,6 +677,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260118_1850.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 18 Jan 2026 18:51:47 +0900</pubDate>
       <itunes:duration>279</itunes:duration>
+    </item>
+    <item>
+      <title>銀魂安倍晋三から始まる主人公もうやめない？ 他29件 - 01/18 19:19</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260118_1919.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260118_1919.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Jan 2026 19:19:30 +0900</pubDate>
+      <itunes:duration>1162</itunes:duration>
     </item>
   </channel>
 </rss>
