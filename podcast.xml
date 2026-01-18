@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Jan 2026 01:19:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 04:00:50 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -589,6 +589,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260118_1018.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 18 Jan 2026 10:19:38 +0900</pubDate>
       <itunes:duration>1004</itunes:duration>
+    </item>
+    <item>
+      <title>【悲報】金曜ロードショー助けて！！ジブリアニメの視聴率低下が... - 本文読み上げ - 01/18 13:00</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260118_1300.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260118_1300.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Jan 2026 13:00:50 +0900</pubDate>
+      <itunes:duration>229</itunes:duration>
     </item>
   </channel>
 </rss>
