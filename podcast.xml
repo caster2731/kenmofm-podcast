@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Jan 2026 22:53:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 23:17:18 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -877,6 +877,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260119_0751.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 19 Jan 2026 07:52:27 +0900</pubDate>
       <itunes:duration>261</itunes:duration>
+    </item>
+    <item>
+      <title>日本人の６９％中道は高市に対抗できる勢力にならない 他79件 - 01/19 08:16</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260119_0816.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260119_0816.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Jan 2026 08:16:30 +0900</pubDate>
+      <itunes:duration>882</itunes:duration>
     </item>
   </channel>
 </rss>
