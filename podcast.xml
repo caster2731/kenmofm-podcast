@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Jan 2026 06:48:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 06:53:17 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -637,6 +637,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260118_1416.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 18 Jan 2026 14:17:31 +0900</pubDate>
       <itunes:duration>872</itunes:duration>
+    </item>
+    <item>
+      <title>トランプ、新国連を発表 トランプが全権を握り任期は事実上終身... - 本文読み上げ - 01/18 15:51</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260118_1551.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260118_1551.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Jan 2026 15:51:44 +0900</pubDate>
+      <itunes:duration>253</itunes:duration>
     </item>
   </channel>
 </rss>
