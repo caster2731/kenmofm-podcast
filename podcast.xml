@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Jan 2026 04:18:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 04:50:45 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -613,6 +613,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260118_1317.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 18 Jan 2026 13:18:33 +0900</pubDate>
       <itunes:duration>898</itunes:duration>
+    </item>
+    <item>
+      <title>【速報】"いじめ問題"でこども家庭庁ら６省が緊急会議ＳＮＳへ... - 本文読み上げ - 01/18 13:50</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260118_1350.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260118_1350.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Jan 2026 13:50:45 +0900</pubDate>
+      <itunes:duration>303</itunes:duration>
     </item>
   </channel>
 </rss>
