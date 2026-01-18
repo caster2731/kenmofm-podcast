@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Jan 2026 15:55:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 16:17:51 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -757,6 +757,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260119_0055.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 19 Jan 2026 00:55:42 +0900</pubDate>
       <itunes:duration>440</itunes:duration>
+    </item>
+    <item>
+      <title>【画像】貴殿らはこの豚の生姜焼き定食720円税込にいくら払え... 他79件 - 01/19 01:17</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260119_0116.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260119_0116.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Jan 2026 01:17:05 +0900</pubDate>
+      <itunes:duration>850</itunes:duration>
     </item>
   </channel>
 </rss>
