@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Jan 2026 19:53:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 20:17:43 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -821,6 +821,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260119_0452.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 19 Jan 2026 04:53:11 +0900</pubDate>
       <itunes:duration>280</itunes:duration>
+    </item>
+    <item>
+      <title>【朝日世論】衆院解散に賛成36%、反対50% 比例区自民34... 他79件 - 01/19 05:16</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260119_0516.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260119_0516.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Jan 2026 05:16:57 +0900</pubDate>
+      <itunes:duration>859</itunes:duration>
     </item>
   </channel>
 </rss>
