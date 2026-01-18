@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Jan 2026 18:55:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 19:19:32 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -805,6 +805,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260119_0355.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 19 Jan 2026 03:55:40 +0900</pubDate>
       <itunes:duration>309</itunes:duration>
+    </item>
+    <item>
+      <title>自民党、裏金議員のみそぎは済んだ 他79件 - 01/19 04:18</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260119_0418.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260119_0418.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Jan 2026 04:18:46 +0900</pubDate>
+      <itunes:duration>829</itunes:duration>
     </item>
   </channel>
 </rss>
