@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Jan 2026 10:58:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 11:20:13 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -693,6 +693,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260118_1956.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 18 Jan 2026 19:58:00 +0900</pubDate>
       <itunes:duration>262</itunes:duration>
+    </item>
+    <item>
+      <title>タイムボカンシリーズ ヤッターマンドロンボー一味がガシャポン... 他79件 - 01/18 20:19</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260118_2018.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260118_2018.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Jan 2026 20:19:27 +0900</pubDate>
+      <itunes:duration>858</itunes:duration>
     </item>
   </channel>
 </rss>
