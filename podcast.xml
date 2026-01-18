@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Jan 2026 21:53:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 22:04:57 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -853,6 +853,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260119_0652.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 19 Jan 2026 06:53:13 +0900</pubDate>
       <itunes:duration>312</itunes:duration>
+    </item>
+    <item>
+      <title>バレンタイン用のチョコ、カカオの値上げでチョコレートのような... - 本文読み上げ - 01/19 07:04</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260119_0702.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260119_0702.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Jan 2026 07:04:43 +0900</pubDate>
+      <itunes:duration>554</itunes:duration>
     </item>
   </channel>
 </rss>
