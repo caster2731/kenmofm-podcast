@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Jan 2026 18:55:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 19:17:33 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -1149,6 +1149,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260120_0355.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 20 Jan 2026 03:55:10 +0900</pubDate>
       <itunes:duration>176</itunes:duration>
+    </item>
+    <item>
+      <title>高市目標は与党過半数、食料品減税もするわよ！現状、与党過半数... 他79件 - 01/20 04:16</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260120_0416.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260120_0416.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Jan 2026 04:16:45 +0900</pubDate>
+      <itunes:duration>812</itunes:duration>
     </item>
   </channel>
 </rss>
