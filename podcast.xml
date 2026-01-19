@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Jan 2026 11:18:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 12:52:14 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -1045,6 +1045,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260119_2016.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 19 Jan 2026 20:17:43 +0900</pubDate>
       <itunes:duration>1039</itunes:duration>
+    </item>
+    <item>
+      <title>高市総理今回の解散選挙は、私が総理大臣でいいのか選挙2 - 本文読み上げ - 01/19 21:51</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260119_2151.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260119_2151.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Jan 2026 21:51:56 +0900</pubDate>
+      <itunes:duration>274</itunes:duration>
     </item>
   </channel>
 </rss>
