@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Jan 2026 23:54:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 00:18:22 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -893,6 +893,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260119_0853.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 19 Jan 2026 08:53:33 +0900</pubDate>
       <itunes:duration>289</itunes:duration>
+    </item>
+    <item>
+      <title>【動画】河合ゆうすけフィフィを訴える。酒が入ったフィフィはヤ... 他79件 - 01/19 09:17</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260119_0917.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260119_0917.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Jan 2026 09:17:34 +0900</pubDate>
+      <itunes:duration>849</itunes:duration>
     </item>
   </channel>
 </rss>
