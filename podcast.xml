@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Jan 2026 03:52:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 04:18:37 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -957,6 +957,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260119_1250.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 19 Jan 2026 12:51:31 +0900</pubDate>
       <itunes:duration>260</itunes:duration>
+    </item>
+    <item>
+      <title>女さん、パプテマス・シロッコの何が悪いのか理解できない 他79件 - 01/19 13:17</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260119_1317.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260119_1317.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Jan 2026 13:17:49 +0900</pubDate>
+      <itunes:duration>1005</itunes:duration>
     </item>
   </channel>
 </rss>
