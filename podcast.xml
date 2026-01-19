@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Jan 2026 14:17:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 14:56:27 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -1077,6 +1077,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260119_2316.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 19 Jan 2026 23:16:54 +0900</pubDate>
       <itunes:duration>958</itunes:duration>
+    </item>
+    <item>
+      <title>消えない通知バッジ - ケンモ怪談 - 01/19 23:56</title>
+      <description>KenmoFM 怪談コーナー</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260119_2355.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260119_2355.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Jan 2026 23:56:15 +0900</pubDate>
+      <itunes:duration>447</itunes:duration>
     </item>
   </channel>
 </rss>
