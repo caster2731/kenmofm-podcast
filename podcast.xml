@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Jan 2026 07:23:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 07:53:10 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -997,6 +997,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260119_1621.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 19 Jan 2026 16:22:51 +0900</pubDate>
       <itunes:duration>1076</itunes:duration>
+    </item>
+    <item>
+      <title>ミネソタ州知事が州兵投入しICE対応 → トランプ政権ブチギ... - 本文読み上げ - 01/19 16:52</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260119_1651.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260119_1651.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Jan 2026 16:52:46 +0900</pubDate>
+      <itunes:duration>210</itunes:duration>
     </item>
   </channel>
 </rss>
