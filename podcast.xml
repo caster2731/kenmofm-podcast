@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Jan 2026 08:19:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 09:53:10 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -1013,6 +1013,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260119_1718.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 19 Jan 2026 17:18:36 +0900</pubDate>
       <itunes:duration>1213</itunes:duration>
+    </item>
+    <item>
+      <title>高市早苗国民不在、選挙目当ての政治、永田町の論理に終止符を打... - 本文読み上げ - 01/19 18:52</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260119_1851.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260119_1851.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Jan 2026 18:52:48 +0900</pubDate>
+      <itunes:duration>158</itunes:duration>
     </item>
   </channel>
 </rss>
