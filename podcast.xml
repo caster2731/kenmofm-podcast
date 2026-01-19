@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Jan 2026 03:18:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 03:52:01 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -949,6 +949,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260119_1217.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 19 Jan 2026 12:18:02 +0900</pubDate>
       <itunes:duration>950</itunes:duration>
+    </item>
+    <item>
+      <title>Z世代すまん...俺等って、最も賢くて不幸な世代じゃね？2万... - 本文読み上げ - 01/19 12:51</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260119_1250.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260119_1250.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Jan 2026 12:51:31 +0900</pubDate>
+      <itunes:duration>260</itunes:duration>
     </item>
   </channel>
 </rss>
