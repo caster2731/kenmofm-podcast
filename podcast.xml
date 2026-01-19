@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Jan 2026 18:18:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 18:55:14 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -1141,6 +1141,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260120_0317.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 20 Jan 2026 03:17:35 +0900</pubDate>
       <itunes:duration>831</itunes:duration>
+    </item>
+    <item>
+      <title>深夜のタクシー - ケンモ怪談 - 01/20 03:55</title>
+      <description>KenmoFM 怪談コーナー</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260120_0355.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260120_0355.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Jan 2026 03:55:10 +0900</pubDate>
+      <itunes:duration>176</itunes:duration>
     </item>
   </channel>
 </rss>
