@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Jan 2026 01:54:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 02:17:16 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -925,6 +925,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260119_1052.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 19 Jan 2026 10:53:52 +0900</pubDate>
       <itunes:duration>208</itunes:duration>
+    </item>
+    <item>
+      <title>ネトウヨ貧しくて生活苦しいけど中国ロシアと戦争だ！戦中日本人... 他79件 - 01/19 11:16</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260119_1116.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260119_1116.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Jan 2026 11:16:28 +0900</pubDate>
+      <itunes:duration>908</itunes:duration>
     </item>
   </channel>
 </rss>
