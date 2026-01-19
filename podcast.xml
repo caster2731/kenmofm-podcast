@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Jan 2026 19:54:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 20:18:35 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -1165,6 +1165,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260120_0452.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 20 Jan 2026 04:53:39 +0900</pubDate>
       <itunes:duration>281</itunes:duration>
+    </item>
+    <item>
+      <title>【悲報】一度創価学会中革連 に任せてみようという気運、高まる 他79件 - 01/20 05:17</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260120_0517.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260120_0517.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Jan 2026 05:17:47 +0900</pubDate>
+      <itunes:duration>839</itunes:duration>
     </item>
   </channel>
 </rss>
