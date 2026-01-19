@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Jan 2026 22:56:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 23:20:18 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -1213,6 +1213,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260120_0755.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 20 Jan 2026 07:55:24 +0900</pubDate>
       <itunes:duration>302</itunes:duration>
+    </item>
+    <item>
+      <title>ジジイはクレームばっかでキモい４０歳以上ジジイ入店禁止の居酒... 他99件 - 01/20 08:19</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260120_0818.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260120_0818.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Jan 2026 08:19:30 +0900</pubDate>
+      <itunes:duration>1078</itunes:duration>
     </item>
   </channel>
 </rss>
