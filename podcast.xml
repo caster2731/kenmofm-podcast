@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Jan 2026 21:19:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 21:54:43 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -1189,6 +1189,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260120_0618.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 20 Jan 2026 06:18:51 +0900</pubDate>
       <itunes:duration>885</itunes:duration>
+    </item>
+    <item>
+      <title>アマゾン配達員さん、1個あたりの報酬を125円から90円に引... - 本文読み上げ - 01/20 06:54</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260120_0652.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260120_0652.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Jan 2026 06:54:01 +0900</pubDate>
+      <itunes:duration>397</itunes:duration>
     </item>
   </channel>
 </rss>
