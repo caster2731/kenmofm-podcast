@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Jan 2026 06:05:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 06:52:06 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -981,6 +981,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260119_1417.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 19 Jan 2026 14:18:49 +0900</pubDate>
       <itunes:duration>870</itunes:duration>
+    </item>
+    <item>
+      <title>【緊急】国交省気象庁ガチのマジで雪がヤバいから不要不急の外出... - 本文読み上げ - 01/19 15:51</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260119_1551.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260119_1551.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Jan 2026 15:51:40 +0900</pubDate>
+      <itunes:duration>316</itunes:duration>
     </item>
   </channel>
 </rss>
