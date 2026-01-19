@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Jan 2026 02:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 03:18:50 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -941,6 +941,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260119_1149.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 19 Jan 2026 11:49:59 +0900</pubDate>
       <itunes:duration>318</itunes:duration>
+    </item>
+    <item>
+      <title>彼女26初体験は16歳、経験人数は8人です、お前らはこいつと... 他79件 - 01/19 12:18</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260119_1217.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260119_1217.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Jan 2026 12:18:02 +0900</pubDate>
+      <itunes:duration>950</itunes:duration>
     </item>
   </channel>
 </rss>
