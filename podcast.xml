@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Jan 2026 00:17:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 00:50:58 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -1237,6 +1237,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260120_0916.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 20 Jan 2026 09:16:56 +0900</pubDate>
       <itunes:duration>1090</itunes:duration>
+    </item>
+    <item>
+      <title>日本に旅行に来たヨーロッパ人、朝４時にとんでもないものを発見... - 本文読み上げ - 01/20 09:50</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260120_0949.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260120_0949.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Jan 2026 09:50:22 +0900</pubDate>
+      <itunes:duration>335</itunes:duration>
     </item>
   </channel>
 </rss>
