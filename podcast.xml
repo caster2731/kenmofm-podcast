@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Jan 2026 12:52:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 13:20:15 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -1397,6 +1397,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260120_2151.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 20 Jan 2026 21:52:11 +0900</pubDate>
       <itunes:duration>334</itunes:duration>
+    </item>
+    <item>
+      <title>真夏の夜の淫夢 他49件 - 01/20 22:19</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260120_2218.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260120_2218.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Jan 2026 22:19:27 +0900</pubDate>
+      <itunes:duration>561</itunes:duration>
     </item>
   </channel>
 </rss>
