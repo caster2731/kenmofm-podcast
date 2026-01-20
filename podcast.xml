@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Jan 2026 23:55:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 00:17:44 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -1229,6 +1229,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260120_0854.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 20 Jan 2026 08:54:41 +0900</pubDate>
       <itunes:duration>236</itunes:duration>
+    </item>
+    <item>
+      <title>【悲報】高市首相、国民の信任を得れば恐ろしい法案を通す模様 他99件 - 01/20 09:16</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260120_0916.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260120_0916.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Jan 2026 09:16:56 +0900</pubDate>
+      <itunes:duration>1090</itunes:duration>
     </item>
   </channel>
 </rss>
