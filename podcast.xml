@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Jan 2026 08:18:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 09:52:24 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -1349,6 +1349,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260120_1716.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 20 Jan 2026 17:17:47 +0900</pubDate>
       <itunes:duration>1149</itunes:duration>
+    </item>
+    <item>
+      <title>緊急速報！ついにソニーテレビ撤退！撤退！ - 本文読み上げ - 01/20 18:52</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260120_1851.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260120_1851.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Jan 2026 18:52:02 +0900</pubDate>
+      <itunes:duration>227</itunes:duration>
     </item>
   </channel>
 </rss>
