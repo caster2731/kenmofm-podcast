@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Jan 2026 14:17:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 14:56:18 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -1421,6 +1421,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260120_2315.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 20 Jan 2026 23:16:48 +0900</pubDate>
       <itunes:duration>546</itunes:duration>
+    </item>
+    <item>
+      <title>奥多摩の古い宿 - ケンモ怪談 - 01/20 23:56</title>
+      <description>KenmoFM 怪談コーナー</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260120_2355.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260120_2355.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Jan 2026 23:56:06 +0900</pubDate>
+      <itunes:duration>244</itunes:duration>
     </item>
   </channel>
 </rss>
