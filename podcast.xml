@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Jan 2026 13:20:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 13:51:38 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -1405,6 +1405,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260120_2218.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 20 Jan 2026 22:19:27 +0900</pubDate>
       <itunes:duration>561</itunes:duration>
+    </item>
+    <item>
+      <title>【高市速報】デンマーク年金基金 米国債から撤退もはや信用力の... - 本文読み上げ - 01/20 22:51</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260120_2250.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260120_2250.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Jan 2026 22:51:22 +0900</pubDate>
+      <itunes:duration>265</itunes:duration>
     </item>
   </channel>
 </rss>
