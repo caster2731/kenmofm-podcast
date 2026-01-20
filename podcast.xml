@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Jan 2026 01:20:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 01:50:16 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -1253,6 +1253,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260120_1019.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 20 Jan 2026 10:19:55 +0900</pubDate>
       <itunes:duration>1058</itunes:duration>
+    </item>
+    <item>
+      <title>共産党もうキレた。 衆院選に候補者立てまくる - 本文読み上げ - 01/20 10:49</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260120_1049.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260120_1049.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Jan 2026 10:49:42 +0900</pubDate>
+      <itunes:duration>320</itunes:duration>
     </item>
   </channel>
 </rss>
