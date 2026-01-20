@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Jan 2026 12:22:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 12:52:29 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -1389,6 +1389,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260120_2121.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 20 Jan 2026 21:22:07 +0900</pubDate>
       <itunes:duration>537</itunes:duration>
+    </item>
+    <item>
+      <title>【高市金利】日本の金利、物凄い勢いで連日上昇！大丈夫かな？ - 本文読み上げ - 01/20 21:52</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260120_2151.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260120_2151.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Jan 2026 21:52:11 +0900</pubDate>
+      <itunes:duration>334</itunes:duration>
     </item>
   </channel>
 </rss>
