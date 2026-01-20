@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Jan 2026 09:52:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 10:19:15 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -1357,6 +1357,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260120_1851.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 20 Jan 2026 18:52:02 +0900</pubDate>
       <itunes:duration>227</itunes:duration>
+    </item>
+    <item>
+      <title>【画像】ケンモメンの髪型がこの2種類しかない理由、誰にも分か... 他29件 - 01/20 19:18</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260120_1918.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260120_1918.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Jan 2026 19:18:27 +0900</pubDate>
+      <itunes:duration>1281</itunes:duration>
     </item>
   </channel>
 </rss>
