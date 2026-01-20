@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Jan 2026 13:51:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 14:17:36 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -1413,6 +1413,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260120_2250.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 20 Jan 2026 22:51:22 +0900</pubDate>
       <itunes:duration>265</itunes:duration>
+    </item>
+    <item>
+      <title>【消費税減税】高市中道、痛恨のミス？！無闇に減税した場合、イ... 他49件 - 01/20 23:16</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260120_2315.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260120_2315.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Jan 2026 23:16:48 +0900</pubDate>
+      <itunes:duration>546</itunes:duration>
     </item>
   </channel>
 </rss>
