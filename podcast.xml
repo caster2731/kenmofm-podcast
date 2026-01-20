@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Jan 2026 03:50:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 04:19:16 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -1293,6 +1293,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260120_1249.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 20 Jan 2026 12:50:23 +0900</pubDate>
       <itunes:duration>301</itunes:duration>
+    </item>
+    <item>
+      <title>外人なぜ我々の国のアニメは日本人にウケないんだ？ 他99件 - 01/20 13:18</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260120_1318.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260120_1318.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Jan 2026 13:18:28 +0900</pubDate>
+      <itunes:duration>1087</itunes:duration>
     </item>
   </channel>
 </rss>
