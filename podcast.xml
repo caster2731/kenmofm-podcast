@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Wed, 21 Jan 2026 05:18:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 06:56:29 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -1661,6 +1661,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260121_1417.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 21 Jan 2026 14:18:07 +0900</pubDate>
       <itunes:duration>1104</itunes:duration>
+    </item>
+    <item>
+      <title>自民ベテラン議員自民と公明の26年続いた協力関係が簡単に崩れ... - 本文読み上げ - 01/21 15:56</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260121_1555.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260121_1555.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Jan 2026 15:56:03 +0900</pubDate>
+      <itunes:duration>295</itunes:duration>
     </item>
   </channel>
 </rss>
