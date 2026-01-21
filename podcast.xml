@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Wed, 21 Jan 2026 20:18:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 20:59:06 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -1861,6 +1861,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260122_0517.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 22 Jan 2026 05:17:42 +0900</pubDate>
       <itunes:duration>1161</itunes:duration>
+    </item>
+    <item>
+      <title>すまん、ネトウヨの言う純血の日本人日本の血が薄まる大和民族っ... - 本文読み上げ - 01/22 05:58</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260122_0557.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260122_0557.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 22 Jan 2026 05:58:22 +0900</pubDate>
+      <itunes:duration>257</itunes:duration>
     </item>
   </channel>
 </rss>
