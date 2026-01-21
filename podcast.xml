@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Wed, 21 Jan 2026 20:59:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 21:19:45 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -1869,6 +1869,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260122_0557.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 22 Jan 2026 05:58:22 +0900</pubDate>
       <itunes:duration>257</itunes:duration>
+    </item>
+    <item>
+      <title>男さん､女性と交際も1年もたず別れる→男は連絡を試みるも着信... 他99件 - 01/22 06:18</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260122_0618.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260122_0618.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 22 Jan 2026 06:18:57 +0900</pubDate>
+      <itunes:duration>1146</itunes:duration>
     </item>
   </channel>
 </rss>
