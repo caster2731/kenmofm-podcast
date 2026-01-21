@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Jan 2026 23:51:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 00:17:30 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -1573,6 +1573,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260121_0850.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 21 Jan 2026 08:50:28 +0900</pubDate>
       <itunes:duration>175</itunes:duration>
+    </item>
+    <item>
+      <title>高市経済ブレーン良い金利上昇 他99件 - 01/21 09:16</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260121_0916.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260121_0916.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Jan 2026 09:16:42 +0900</pubDate>
+      <itunes:duration>1128</itunes:duration>
     </item>
   </channel>
 </rss>
