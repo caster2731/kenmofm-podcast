@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Jan 2026 22:50:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 23:16:54 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2205,6 +2205,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260123_0748.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 23 Jan 2026 07:50:10 +0900</pubDate>
       <itunes:duration>220</itunes:duration>
+    </item>
+    <item>
+      <title>ポケパークカントーフリーパス大人14000円の乗り物が昭和後... 他49件 - 01/23 08:16</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260123_0815.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260123_0815.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Jan 2026 08:16:06 +0900</pubDate>
+      <itunes:duration>612</itunes:duration>
     </item>
   </channel>
 </rss>
