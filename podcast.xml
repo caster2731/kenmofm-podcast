@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Jan 2026 05:19:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 07:00:08 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -1965,6 +1965,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260122_1417.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 22 Jan 2026 14:18:15 +0900</pubDate>
       <itunes:duration>1213</itunes:duration>
+    </item>
+    <item>
+      <title>【高市速報】中道改革連合、小選挙区199人比例28人合計立候... - 本文読み上げ - 01/22 15:59</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260122_1558.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260122_1558.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 22 Jan 2026 15:59:42 +0900</pubDate>
+      <itunes:duration>304</itunes:duration>
     </item>
   </channel>
 </rss>
