@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Jan 2026 09:59:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 10:18:18 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2013,6 +2013,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260122_1858.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 22 Jan 2026 18:59:09 +0900</pubDate>
       <itunes:duration>194</itunes:duration>
+    </item>
+    <item>
+      <title>【悲報】無料でドライヤー設置してたけどクレームあったから有料... 他99件 - 01/22 19:17</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260122_1916.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260122_1916.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 22 Jan 2026 19:17:30 +0900</pubDate>
+      <itunes:duration>1135</itunes:duration>
     </item>
   </channel>
 </rss>
