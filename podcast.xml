@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Jan 2026 04:17:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 04:58:20 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -1949,6 +1949,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260122_1316.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 22 Jan 2026 13:16:59 +0900</pubDate>
       <itunes:duration>1186</itunes:duration>
+    </item>
+    <item>
+      <title>【高市悲報】衆議院の投票入場券、間に合わない模様 - 本文読み上げ - 01/22 13:57</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260122_1356.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260122_1356.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 22 Jan 2026 13:57:52 +0900</pubDate>
+      <itunes:duration>241</itunes:duration>
     </item>
   </channel>
 </rss>
