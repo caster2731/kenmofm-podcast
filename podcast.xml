@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Jan 2026 12:55:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 13:18:08 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2045,6 +2045,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260122_2153.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 22 Jan 2026 21:55:27 +0900</pubDate>
       <itunes:duration>257</itunes:duration>
+    </item>
+    <item>
+      <title>浜崎あゆ、日本ライブに来た中国ファンに大変な中来てくれてあり... 他79件 - 01/22 22:17</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260122_2216.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260122_2216.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 22 Jan 2026 22:17:20 +0900</pubDate>
+      <itunes:duration>810</itunes:duration>
     </item>
   </channel>
 </rss>
