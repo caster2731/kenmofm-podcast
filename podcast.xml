@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Jan 2026 17:20:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 17:55:55 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2117,6 +2117,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260123_0219.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 23 Jan 2026 02:19:55 +0900</pubDate>
       <itunes:duration>583</itunes:duration>
+    </item>
+    <item>
+      <title>深海深度6000メートルの団欒 - ケンモ怪談 - 01/23 02:55</title>
+      <description>KenmoFM 怪談コーナー</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260123_0255.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260123_0255.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Jan 2026 02:55:49 +0900</pubDate>
+      <itunes:duration>676</itunes:duration>
     </item>
   </channel>
 </rss>
