@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Jan 2026 13:53:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 14:17:19 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2061,6 +2061,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260122_2252.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 22 Jan 2026 22:52:55 +0900</pubDate>
       <itunes:duration>210</itunes:duration>
+    </item>
+    <item>
+      <title>中道改革連合同性婚！！！！！！！！！！！！ 他49件 - 01/22 23:16</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260122_2315.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260122_2315.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 22 Jan 2026 23:16:31 +0900</pubDate>
+      <itunes:duration>511</itunes:duration>
     </item>
   </channel>
 </rss>
