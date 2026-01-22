@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Jan 2026 18:56:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 19:21:04 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2141,6 +2141,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260123_0355.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 23 Jan 2026 03:56:53 +0900</pubDate>
       <itunes:duration>487</itunes:duration>
+    </item>
+    <item>
+      <title>悠仁って自分の部屋で一人きりのとき何して遊んでるの？ 他49件 - 01/23 04:20</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260123_0419.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260123_0419.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Jan 2026 04:20:16 +0900</pubDate>
+      <itunes:duration>573</itunes:duration>
     </item>
   </channel>
 </rss>
