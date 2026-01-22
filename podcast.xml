@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Jan 2026 19:50:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 20:16:44 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2157,6 +2157,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260123_0449.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 23 Jan 2026 04:49:52 +0900</pubDate>
       <itunes:duration>186</itunes:duration>
+    </item>
+    <item>
+      <title>【悲報】悪いことしてる権力者を止める方法、あれしかない 他49件 - 01/23 05:15</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260123_0515.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260123_0515.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Jan 2026 05:15:56 +0900</pubDate>
+      <itunes:duration>625</itunes:duration>
     </item>
   </channel>
 </rss>
