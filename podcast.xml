@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Jan 2026 22:17:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 22:50:50 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2197,6 +2197,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260123_0716.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 23 Jan 2026 07:16:51 +0900</pubDate>
       <itunes:duration>607</itunes:duration>
+    </item>
+    <item>
+      <title>【高市悲報】ユーロ円186円突破 史上初 - 本文読み上げ - 01/23 07:50</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260123_0748.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260123_0748.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Jan 2026 07:50:10 +0900</pubDate>
+      <itunes:duration>220</itunes:duration>
     </item>
   </channel>
 </rss>
