@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Jan 2026 21:18:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 21:49:34 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2181,6 +2181,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260123_0617.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 23 Jan 2026 06:17:17 +0900</pubDate>
       <itunes:duration>550</itunes:duration>
+    </item>
+    <item>
+      <title>普通の日本人憲法改正や徴兵を 選挙後の後出しでやるほど、高市... - 本文読み上げ - 01/23 06:48</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260123_0648.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260123_0648.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Jan 2026 06:48:52 +0900</pubDate>
+      <itunes:duration>269</itunes:duration>
     </item>
   </channel>
 </rss>
