@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Jan 2026 21:49:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 22:17:39 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2189,6 +2189,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260123_0648.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 23 Jan 2026 06:48:52 +0900</pubDate>
       <itunes:duration>269</itunes:duration>
+    </item>
+    <item>
+      <title>【悲報】中年男性さん、町内会に入ってないのに町内会の餅つき大... 他49件 - 01/23 07:16</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260123_0716.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260123_0716.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Jan 2026 07:16:51 +0900</pubDate>
+      <itunes:duration>607</itunes:duration>
     </item>
   </channel>
 </rss>
