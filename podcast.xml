@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Jan 2026 02:01:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 02:21:54 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -1909,6 +1909,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260122_1100.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 22 Jan 2026 11:00:38 +0900</pubDate>
       <itunes:duration>370</itunes:duration>
+    </item>
+    <item>
+      <title>【速報】2.353%！10年国債金利、暴騰！価値は下落 他99件 - 01/22 11:21</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260122_1120.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260122_1120.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 22 Jan 2026 11:21:06 +0900</pubDate>
+      <itunes:duration>1204</itunes:duration>
     </item>
   </channel>
 </rss>
