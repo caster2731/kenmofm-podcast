@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Jan 2026 15:57:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 16:19:26 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2093,6 +2093,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260123_0055.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 23 Jan 2026 00:56:53 +0900</pubDate>
       <itunes:duration>501</itunes:duration>
+    </item>
+    <item>
+      <title>勇者を目指す少女と最強ママのファンタジー伝説の勇者は実はママ... 他49件 - 01/23 01:18</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260123_0118.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260123_0118.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Jan 2026 01:18:38 +0900</pubDate>
+      <itunes:duration>559</itunes:duration>
     </item>
   </channel>
 </rss>
