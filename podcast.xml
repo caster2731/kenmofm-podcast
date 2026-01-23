@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Jan 2026 00:18:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 00:51:26 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2229,6 +2229,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260123_0917.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 23 Jan 2026 09:17:24 +0900</pubDate>
       <itunes:duration>625</itunes:duration>
+    </item>
+    <item>
+      <title>ケンモで公明党を支持する謎の勢力、ナンミョメンと呼ばれ始める - 本文読み上げ - 01/23 09:50</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260123_0949.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260123_0949.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Jan 2026 09:50:50 +0900</pubDate>
+      <itunes:duration>314</itunes:duration>
     </item>
   </channel>
 </rss>
