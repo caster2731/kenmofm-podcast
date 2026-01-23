@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Jan 2026 10:18:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 10:55:48 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2357,6 +2357,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260123_1916.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 23 Jan 2026 19:18:07 +0900</pubDate>
       <itunes:duration>1040</itunes:duration>
+    </item>
+    <item>
+      <title>【悲報】崩壊スターレイルのヒロイン三月なのかある大物政治家と... - 本文読み上げ - 01/23 19:55</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260123_1955.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260123_1955.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Jan 2026 19:55:28 +0900</pubDate>
+      <itunes:duration>246</itunes:duration>
     </item>
   </channel>
 </rss>
