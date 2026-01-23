@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Jan 2026 19:17:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 19:52:31 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2493,6 +2493,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260124_0415.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 24 Jan 2026 04:16:42 +0900</pubDate>
       <itunes:duration>640</itunes:duration>
+    </item>
+    <item>
+      <title>【高市為替】なんかすごい円高 - 本文読み上げ - 01/24 04:51</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260124_0450.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260124_0450.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Jan 2026 04:51:45 +0900</pubDate>
+      <itunes:duration>228</itunes:duration>
     </item>
   </channel>
 </rss>
