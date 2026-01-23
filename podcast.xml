@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Jan 2026 03:17:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 03:51:01 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2277,6 +2277,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260123_1215.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 23 Jan 2026 12:17:01 +0900</pubDate>
       <itunes:duration>552</itunes:duration>
+    </item>
+    <item>
+      <title>【悲報】日経、また高市政権に激オコ記事配信 - 本文読み上げ - 01/23 12:50</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260123_1249.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260123_1249.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Jan 2026 12:50:31 +0900</pubDate>
+      <itunes:duration>242</itunes:duration>
     </item>
   </channel>
 </rss>
