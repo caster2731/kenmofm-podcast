@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Jan 2026 22:18:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 22:51:26 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2541,6 +2541,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260124_0717.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 24 Jan 2026 07:17:25 +0900</pubDate>
       <itunes:duration>814</itunes:duration>
+    </item>
+    <item>
+      <title>自民党がみたいな政治を続けた結果、全ての政党が減税ポピュリズ... - 本文読み上げ - 01/24 07:50</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260124_0749.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260124_0749.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Jan 2026 07:50:46 +0900</pubDate>
+      <itunes:duration>274</itunes:duration>
     </item>
   </channel>
 </rss>
