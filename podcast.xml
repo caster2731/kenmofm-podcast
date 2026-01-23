@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Jan 2026 00:51:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 01:17:24 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2237,6 +2237,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260123_0949.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 23 Jan 2026 09:50:50 +0900</pubDate>
       <itunes:duration>314</itunes:duration>
+    </item>
+    <item>
+      <title>仙台市内で共産党の政党ポスターへの落書きが相次ぐ。少なくとも... 他49件 - 01/23 10:16</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260123_1015.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260123_1015.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Jan 2026 10:16:36 +0900</pubDate>
+      <itunes:duration>566</itunes:duration>
     </item>
   </channel>
 </rss>
