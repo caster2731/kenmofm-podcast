@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Jan 2026 01:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 02:16:48 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2253,6 +2253,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260123_1049.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 23 Jan 2026 10:50:01 +0900</pubDate>
       <itunes:duration>215</itunes:duration>
+    </item>
+    <item>
+      <title>東京人東京土産はとらやの羊羹！名古屋人名古屋土産はういろう！... 他49件 - 01/23 11:16</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260123_1115.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260123_1115.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Jan 2026 11:16:00 +0900</pubDate>
+      <itunes:duration>651</itunes:duration>
     </item>
   </channel>
 </rss>
