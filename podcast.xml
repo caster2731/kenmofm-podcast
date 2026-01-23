@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Jan 2026 16:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 16:55:34 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2445,6 +2445,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260124_0118.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 24 Jan 2026 01:19:42 +0900</pubDate>
       <itunes:duration>1006</itunes:duration>
+    </item>
+    <item>
+      <title>幸福な解体作業 - ケンモ怪談 - 01/24 01:55</title>
+      <description>KenmoFM 怪談コーナー</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260124_0155.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260124_0155.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Jan 2026 01:55:26 +0900</pubDate>
+      <itunes:duration>341</itunes:duration>
     </item>
   </channel>
 </rss>
