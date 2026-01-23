@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Jan 2026 04:57:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 05:20:11 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2301,6 +2301,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260123_1355.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 23 Jan 2026 13:57:04 +0900</pubDate>
       <itunes:duration>279</itunes:duration>
+    </item>
+    <item>
+      <title>チームみらい、AIで生活保護、障害年金の審査、認定を公約 他99件 - 01/23 14:19</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260123_1418.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260123_1418.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Jan 2026 14:19:23 +0900</pubDate>
+      <itunes:duration>1189</itunes:duration>
     </item>
   </channel>
 </rss>
