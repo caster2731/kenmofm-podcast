@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Jan 2026 05:20:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 06:59:26 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2309,6 +2309,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260123_1418.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Fri, 23 Jan 2026 14:19:23 +0900</pubDate>
       <itunes:duration>1189</itunes:duration>
+    </item>
+    <item>
+      <title>【高市悲報】片山財務大臣レスポンシブルでサステナブルなプロア... - 本文読み上げ - 01/23 15:59</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260123_1557.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260123_1557.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Jan 2026 15:59:00 +0900</pubDate>
+      <itunes:duration>276</itunes:duration>
     </item>
   </channel>
 </rss>
