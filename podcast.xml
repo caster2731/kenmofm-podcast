@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Jan 2026 22:56:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 23:17:28 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2901,6 +2901,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260125_0754.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 25 Jan 2026 07:55:32 +0900</pubDate>
       <itunes:duration>327</itunes:duration>
+    </item>
+    <item>
+      <title>【悲報】食料品の消費税0%。年収800万円以上の高所得者層日... 他99件 - 01/25 08:16</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260125_0816.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260125_0816.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 25 Jan 2026 08:16:40 +0900</pubDate>
+      <itunes:duration>1097</itunes:duration>
     </item>
   </channel>
 </rss>
