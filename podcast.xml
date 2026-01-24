@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Jan 2026 00:51:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 01:17:44 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2581,6 +2581,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260124_0950.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 24 Jan 2026 09:51:04 +0900</pubDate>
       <itunes:duration>229</itunes:duration>
+    </item>
+    <item>
+      <title>高校生 家庭の授業で作ったピザしょっぱすぎて６人搬送 北九州 他99件 - 01/24 10:16</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260124_1016.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260124_1016.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Jan 2026 10:16:56 +0900</pubDate>
+      <itunes:duration>1098</itunes:duration>
     </item>
   </channel>
 </rss>
