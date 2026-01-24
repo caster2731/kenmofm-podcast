@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Jan 2026 03:50:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 04:18:23 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2629,6 +2629,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260124_1249.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 24 Jan 2026 12:49:58 +0900</pubDate>
       <itunes:duration>199</itunes:duration>
+    </item>
+    <item>
+      <title>【画像有り】ナンミョメン創価学会と統一教会は違うぞ！！！果た... 他99件 - 01/24 13:17</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260124_1316.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260124_1316.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Jan 2026 13:17:35 +0900</pubDate>
+      <itunes:duration>1197</itunes:duration>
     </item>
   </channel>
 </rss>
