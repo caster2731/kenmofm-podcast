@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Jan 2026 09:51:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 10:18:24 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2701,6 +2701,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260124_1850.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 24 Jan 2026 18:51:29 +0900</pubDate>
       <itunes:duration>270</itunes:duration>
+    </item>
+    <item>
+      <title>創価学会が中道改革連合の支持を正式決定 他99件 - 01/24 19:17</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260124_1917.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260124_1917.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Jan 2026 19:17:35 +0900</pubDate>
+      <itunes:duration>1072</itunes:duration>
     </item>
   </channel>
 </rss>
