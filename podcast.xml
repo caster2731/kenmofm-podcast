@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Jan 2026 19:50:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 20:18:47 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2853,6 +2853,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260125_0448.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 25 Jan 2026 04:49:40 +0900</pubDate>
       <itunes:duration>267</itunes:duration>
+    </item>
+    <item>
+      <title>【朗報】ヤングケアラー疑惑の親、無事通報される 他29件 - 01/25 05:17</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260125_0517.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260125_0517.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 25 Jan 2026 05:17:59 +0900</pubDate>
+      <itunes:duration>852</itunes:duration>
     </item>
   </channel>
 </rss>
