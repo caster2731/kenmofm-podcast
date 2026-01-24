@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Jan 2026 17:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 18:18:00 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2821,6 +2821,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260125_0255.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 25 Jan 2026 02:55:19 +0900</pubDate>
       <itunes:duration>379</itunes:duration>
+    </item>
+    <item>
+      <title>チャンネル登録者100万人JKユーチューバーが大学受験の結果... 他49件 - 01/25 03:17</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260125_0316.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260125_0316.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 25 Jan 2026 03:17:12 +0900</pubDate>
+      <itunes:duration>555</itunes:duration>
     </item>
   </channel>
 </rss>
