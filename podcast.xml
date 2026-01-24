@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Jan 2026 18:18:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 18:56:43 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2829,6 +2829,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260125_0316.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 25 Jan 2026 03:17:12 +0900</pubDate>
       <itunes:duration>555</itunes:duration>
+    </item>
+    <item>
+      <title>自動更新される遺書 - ケンモ怪談 - 01/25 03:56</title>
+      <description>KenmoFM 怪談コーナー</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260125_0355.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260125_0355.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 25 Jan 2026 03:56:39 +0900</pubDate>
+      <itunes:duration>384</itunes:duration>
     </item>
   </channel>
 </rss>
