@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Jan 2026 02:18:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 02:52:09 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2605,6 +2605,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260124_1117.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 24 Jan 2026 11:18:02 +0900</pubDate>
       <itunes:duration>1140</itunes:duration>
+    </item>
+    <item>
+      <title>【悲報】ぼくの作ったペペロンチーノ、やはり味がしない。理由が... - 本文読み上げ - 01/24 11:51</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260124_1150.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260124_1150.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Jan 2026 11:51:37 +0900</pubDate>
+      <itunes:duration>227</itunes:duration>
     </item>
   </channel>
 </rss>
