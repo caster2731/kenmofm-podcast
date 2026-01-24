@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Jan 2026 23:52:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 00:18:28 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2565,6 +2565,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260124_0850.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 24 Jan 2026 08:51:51 +0900</pubDate>
       <itunes:duration>377</itunes:duration>
+    </item>
+    <item>
+      <title>日本初の荷物専用新幹線が試運転！ 他69件 - 01/24 09:17</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260124_0916.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260124_0916.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Jan 2026 09:17:40 +0900</pubDate>
+      <itunes:duration>816</itunes:duration>
     </item>
   </channel>
 </rss>
