@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Jan 2026 04:51:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 05:17:43 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2645,6 +2645,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260124_1349.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 24 Jan 2026 13:51:09 +0900</pubDate>
       <itunes:duration>211</itunes:duration>
+    </item>
+    <item>
+      <title>【朗報】カーディB、トランプを痛烈批判な？こいつ選んでも生活... 他99件 - 01/24 14:16</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260124_1416.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260124_1416.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Jan 2026 14:16:55 +0900</pubDate>
+      <itunes:duration>1209</itunes:duration>
     </item>
   </channel>
 </rss>
