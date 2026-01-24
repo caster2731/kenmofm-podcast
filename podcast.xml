@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Jan 2026 20:55:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 21:19:59 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2869,6 +2869,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260125_0554.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 25 Jan 2026 05:54:59 +0900</pubDate>
       <itunes:duration>304</itunes:duration>
+    </item>
+    <item>
+      <title>【画像】昔のダイソーの雰囲気 他99件 - 01/25 06:19</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260125_0618.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260125_0618.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 25 Jan 2026 06:19:11 +0900</pubDate>
+      <itunes:duration>1036</itunes:duration>
     </item>
   </channel>
 </rss>
