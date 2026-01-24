@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Jan 2026 21:56:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 22:19:18 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2885,6 +2885,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260125_0654.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 25 Jan 2026 06:56:10 +0900</pubDate>
       <itunes:duration>310</itunes:duration>
+    </item>
+    <item>
+      <title>すまん、この令和の時代に“PCで5ch”やってるクソジジイっ... 他99件 - 01/25 07:18</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260125_0718.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260125_0718.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 25 Jan 2026 07:18:30 +0900</pubDate>
+      <itunes:duration>1060</itunes:duration>
     </item>
   </channel>
 </rss>
