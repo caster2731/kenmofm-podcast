@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Jan 2026 07:18:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 07:52:00 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2677,6 +2677,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260124_1617.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 24 Jan 2026 16:17:54 +0900</pubDate>
       <itunes:duration>1127</itunes:duration>
+    </item>
+    <item>
+      <title>原神で有名なmiHoYoさん、全世界でコンサート開催決定！な... - 本文読み上げ - 01/24 16:51</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260124_1650.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260124_1650.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Jan 2026 16:51:36 +0900</pubDate>
+      <itunes:duration>210</itunes:duration>
     </item>
   </channel>
 </rss>
