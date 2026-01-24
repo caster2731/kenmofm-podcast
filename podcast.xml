@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Jan 2026 08:18:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 09:51:51 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2693,6 +2693,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260124_1716.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 24 Jan 2026 17:17:19 +0900</pubDate>
       <itunes:duration>1060</itunes:duration>
+    </item>
+    <item>
+      <title>タニタ公式正論が、正しいわけではない - 本文読み上げ - 01/24 18:51</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260124_1850.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260124_1850.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Jan 2026 18:51:29 +0900</pubDate>
+      <itunes:duration>270</itunes:duration>
     </item>
   </channel>
 </rss>
