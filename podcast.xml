@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Jan 2026 13:18:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 13:50:10 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2749,6 +2749,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260124_2217.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sat, 24 Jan 2026 22:18:01 +0900</pubDate>
       <itunes:duration>962</itunes:duration>
+    </item>
+    <item>
+      <title>小泉進次郎今回の選挙で訴えるのは混迷か、再建か。中道改革連合... - 本文読み上げ - 01/24 22:49</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260124_2249.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260124_2249.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Jan 2026 22:49:54 +0900</pubDate>
+      <itunes:duration>208</itunes:duration>
     </item>
   </channel>
 </rss>
