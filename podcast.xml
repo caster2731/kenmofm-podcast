@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 25 Jan 2026 12:20:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 12:57:12 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -3069,6 +3069,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260125_2118.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 25 Jan 2026 21:19:30 +0900</pubDate>
       <itunes:duration>1157</itunes:duration>
+    </item>
+    <item>
+      <title>高市早苗、逃亡。官邸に引きこもり街頭演説は色々と忙しいからや... - 本文読み上げ - 01/25 21:56</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260125_2156.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260125_2156.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 25 Jan 2026 21:56:54 +0900</pubDate>
+      <itunes:duration>248</itunes:duration>
     </item>
   </channel>
 </rss>
