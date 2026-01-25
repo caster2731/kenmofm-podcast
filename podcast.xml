@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 25 Jan 2026 13:56:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 14:19:12 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -3093,6 +3093,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260125_2255.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 25 Jan 2026 22:56:12 +0900</pubDate>
       <itunes:duration>209</itunes:duration>
+    </item>
+    <item>
+      <title>【乞食速報】福岡県6LDKの中古一軒家が100円！今なら登記... 他99件 - 01/25 23:18</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260125_2318.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260125_2318.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 25 Jan 2026 23:18:24 +0900</pubDate>
+      <itunes:duration>995</itunes:duration>
     </item>
   </channel>
 </rss>
