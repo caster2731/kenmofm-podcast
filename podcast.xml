@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 25 Jan 2026 22:20:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 22:55:56 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -3229,6 +3229,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260126_0718.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 26 Jan 2026 07:20:05 +0900</pubDate>
       <itunes:duration>1091</itunes:duration>
+    </item>
+    <item>
+      <title>自民党、圧勝予想 - 本文読み上げ - 01/26 07:55</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260126_0754.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260126_0754.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Jan 2026 07:55:15 +0900</pubDate>
+      <itunes:duration>269</itunes:duration>
     </item>
   </channel>
 </rss>
