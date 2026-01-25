@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 25 Jan 2026 00:18:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 00:57:20 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2925,6 +2925,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260125_0916.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 25 Jan 2026 09:17:48 +0900</pubDate>
       <itunes:duration>1046</itunes:duration>
+    </item>
+    <item>
+      <title>高市総理選挙費用に文句言われますが、いつ解散しても、結局70... - 本文読み上げ - 01/25 09:56</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260125_0956.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260125_0956.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 25 Jan 2026 09:56:44 +0900</pubDate>
+      <itunes:duration>340</itunes:duration>
     </item>
   </channel>
 </rss>
