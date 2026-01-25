@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 25 Jan 2026 06:20:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 06:57:09 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -3013,6 +3013,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260125_1518.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 25 Jan 2026 15:19:28 +0900</pubDate>
       <itunes:duration>1021</itunes:duration>
+    </item>
+    <item>
+      <title>【画像】トランプ政権、街中で市民を公開処刑 - 本文読み上げ - 01/25 15:56</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260125_1555.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260125_1555.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 25 Jan 2026 15:56:43 +0900</pubDate>
+      <itunes:duration>279</itunes:duration>
     </item>
   </channel>
 </rss>
