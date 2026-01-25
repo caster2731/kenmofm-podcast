@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 25 Jan 2026 16:56:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 17:17:06 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -3141,6 +3141,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260126_0155.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 26 Jan 2026 01:56:18 +0900</pubDate>
       <itunes:duration>402</itunes:duration>
+    </item>
+    <item>
+      <title>【愛媛】太陽光パネルから出火なのか？ 他69件 - 01/26 02:16</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260126_0216.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260126_0216.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Jan 2026 02:16:18 +0900</pubDate>
+      <itunes:duration>751</itunes:duration>
     </item>
   </channel>
 </rss>
