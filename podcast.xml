@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 25 Jan 2026 03:22:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 03:57:03 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2973,6 +2973,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260125_1220.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 25 Jan 2026 12:21:15 +0900</pubDate>
       <itunes:duration>1064</itunes:duration>
+    </item>
+    <item>
+      <title>もし安倍晋三が6人の子を持つパパだったら歴史が変わってたよね - 本文読み上げ - 01/25 12:56</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260125_1255.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260125_1255.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 25 Jan 2026 12:56:33 +0900</pubDate>
+      <itunes:duration>154</itunes:duration>
     </item>
   </channel>
 </rss>
