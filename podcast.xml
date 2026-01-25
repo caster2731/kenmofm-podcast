@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Sun, 25 Jan 2026 03:57:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 04:17:49 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -2981,6 +2981,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260125_1255.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 25 Jan 2026 12:56:33 +0900</pubDate>
       <itunes:duration>154</itunes:duration>
+    </item>
+    <item>
+      <title>識者えなこが年収1億と聞いた。スタッフが薄給で作ったアニメで... 他99件 - 01/25 13:17</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260125_1316.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260125_1316.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 25 Jan 2026 13:17:01 +0900</pubDate>
+      <itunes:duration>1131</itunes:duration>
     </item>
   </channel>
 </rss>
