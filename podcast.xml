@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 26 Jan 2026 00:56:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 01:20:49 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -3269,6 +3269,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260126_0954.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 26 Jan 2026 09:55:57 +0900</pubDate>
       <itunes:duration>306</itunes:duration>
+    </item>
+    <item>
+      <title>高市早苗急に解散して忙しいから街頭演説はしないわよ！ 他99件 - 01/26 10:20</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260126_1019.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260126_1019.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Jan 2026 10:20:00 +0900</pubDate>
+      <itunes:duration>1057</itunes:duration>
     </item>
   </channel>
 </rss>
