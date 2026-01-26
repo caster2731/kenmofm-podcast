@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 26 Jan 2026 03:17:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 03:54:37 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -3309,6 +3309,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260126_1216.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 26 Jan 2026 12:16:54 +0900</pubDate>
       <itunes:duration>1069</itunes:duration>
+    </item>
+    <item>
+      <title>【悲報】40代女性おばさん呼びは本当に適切か？呼び方問題、難... - 本文読み上げ - 01/26 12:54</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260126_1254.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260126_1254.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Jan 2026 12:54:06 +0900</pubDate>
+      <itunes:duration>201</itunes:duration>
     </item>
   </channel>
 </rss>
