@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 26 Jan 2026 09:56:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 10:19:14 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -3397,6 +3397,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260126_1855.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 26 Jan 2026 18:56:23 +0900</pubDate>
       <itunes:duration>317</itunes:duration>
+    </item>
+    <item>
+      <title>【速報】高市解散855億円 他99件 - 01/26 19:18</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260126_1917.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260126_1917.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Jan 2026 19:18:26 +0900</pubDate>
+      <itunes:duration>1125</itunes:duration>
     </item>
   </channel>
 </rss>
