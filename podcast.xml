@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 26 Jan 2026 07:56:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 08:18:27 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -3373,6 +3373,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260126_1655.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 26 Jan 2026 16:55:37 +0900</pubDate>
       <itunes:duration>314</itunes:duration>
+    </item>
+    <item>
+      <title>【党首討論会】高市さん、時間を守って下さい。 他99件 - 01/26 17:17</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260126_1716.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260126_1716.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Jan 2026 17:17:39 +0900</pubDate>
+      <itunes:duration>1080</itunes:duration>
     </item>
   </channel>
 </rss>
