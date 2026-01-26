@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 26 Jan 2026 17:18:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 17:55:15 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -3501,6 +3501,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260127_0216.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 27 Jan 2026 02:17:31 +0900</pubDate>
       <itunes:duration>852</itunes:duration>
+    </item>
+    <item>
+      <title>逆再生の家族 - ケンモ怪談 - 01/27 02:55</title>
+      <description>KenmoFM 怪談コーナー</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260127_0255.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260127_0255.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Jan 2026 02:55:09 +0900</pubDate>
+      <itunes:duration>307</itunes:duration>
     </item>
   </channel>
 </rss>
