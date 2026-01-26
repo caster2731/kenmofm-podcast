@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 26 Jan 2026 19:18:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 19:53:46 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -3533,6 +3533,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260127_0417.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 27 Jan 2026 04:17:55 +0900</pubDate>
       <itunes:duration>841</itunes:duration>
+    </item>
+    <item>
+      <title>高市早苗、報ステで台湾有事答弁より踏み込み台湾有事が起こった... - 本文読み上げ - 01/27 04:53</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260127_0452.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260127_0452.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Jan 2026 04:53:00 +0900</pubDate>
+      <itunes:duration>293</itunes:duration>
     </item>
   </channel>
 </rss>
