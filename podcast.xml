@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 26 Jan 2026 15:23:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 15:56:17 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -3469,6 +3469,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260127_0021.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 27 Jan 2026 00:22:16 +0900</pubDate>
       <itunes:duration>789</itunes:duration>
+    </item>
+    <item>
+      <title>コトリバコ・リビルド - ケンモ怪談 - 01/27 00:56</title>
+      <description>KenmoFM 怪談コーナー</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260127_0055.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260127_0055.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Jan 2026 00:56:07 +0900</pubDate>
+      <itunes:duration>243</itunes:duration>
     </item>
   </channel>
 </rss>
