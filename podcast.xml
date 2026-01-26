@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 26 Jan 2026 07:19:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 07:56:01 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -3365,6 +3365,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260126_1617.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 26 Jan 2026 16:18:19 +0900</pubDate>
       <itunes:duration>1051</itunes:duration>
+    </item>
+    <item>
+      <title>一流新聞社説日本のレアアース 資源大国への一大転機に - 本文読み上げ - 01/26 16:55</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260126_1655.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260126_1655.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Jan 2026 16:55:37 +0900</pubDate>
+      <itunes:duration>314</itunes:duration>
     </item>
   </channel>
 </rss>
