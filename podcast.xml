@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Jan 2026 00:18:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 00:51:15 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -3613,6 +3613,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260127_0916.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 27 Jan 2026 09:17:14 +0900</pubDate>
       <itunes:duration>1188</itunes:duration>
+    </item>
+    <item>
+      <title>高市総理、また暴走。政府公式見解の北朝鮮を核保有国とは認めて... - 本文読み上げ - 01/27 09:50</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260127_0949.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260127_0949.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Jan 2026 09:50:39 +0900</pubDate>
+      <itunes:duration>251</itunes:duration>
     </item>
   </channel>
 </rss>
