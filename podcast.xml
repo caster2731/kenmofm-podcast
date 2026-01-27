@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 26 Jan 2026 23:56:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 00:18:02 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -3605,6 +3605,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260127_0855.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 27 Jan 2026 08:56:20 +0900</pubDate>
       <itunes:duration>280</itunes:duration>
+    </item>
+    <item>
+      <title>高市早苗統一教会文書は韓国による捏造 全ての周辺国ケンカ売り... 他99件 - 01/27 09:17</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260127_0916.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260127_0916.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Jan 2026 09:17:14 +0900</pubDate>
+      <itunes:duration>1188</itunes:duration>
     </item>
   </channel>
 </rss>
