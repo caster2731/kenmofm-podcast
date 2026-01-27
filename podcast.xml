@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Jan 2026 02:52:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 03:19:00 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -3653,6 +3653,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260127_1150.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 27 Jan 2026 11:52:23 +0900</pubDate>
       <itunes:duration>255</itunes:duration>
+    </item>
+    <item>
+      <title>ほかのアイスが値上げしまくったからハーゲンダッツが割安に見え... 他99件 - 01/27 12:18</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260127_1217.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260127_1217.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Jan 2026 12:18:11 +0900</pubDate>
+      <itunes:duration>1135</itunes:duration>
     </item>
   </channel>
 </rss>
