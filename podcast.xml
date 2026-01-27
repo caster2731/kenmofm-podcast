@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Jan 2026 23:17:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 23:52:33 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -3957,6 +3957,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260128_0816.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 28 Jan 2026 08:16:43 +0900</pubDate>
       <itunes:duration>1167</itunes:duration>
+    </item>
+    <item>
+      <title>高市早苗お願い！国民のみんな！アタシに首相続けさせてよ！涙ﾎ... - 本文読み上げ - 01/28 08:51</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260128_0850.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260128_0850.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Jan 2026 08:51:55 +0900</pubDate>
+      <itunes:duration>256</itunes:duration>
     </item>
   </channel>
 </rss>
