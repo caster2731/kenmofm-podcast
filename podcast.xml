@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Jan 2026 12:50:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 13:17:25 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -3789,6 +3789,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260127_2149.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 27 Jan 2026 21:50:23 +0900</pubDate>
       <itunes:duration>252</itunes:duration>
+    </item>
+    <item>
+      <title>衆議院選挙の仕組み。 お前らホントに理解してるか？ 他99件 - 01/27 22:16</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260127_2216.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260127_2216.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Jan 2026 22:16:37 +0900</pubDate>
+      <itunes:duration>995</itunes:duration>
     </item>
   </channel>
 </rss>
