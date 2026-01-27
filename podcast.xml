@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Jan 2026 09:51:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 10:19:03 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -3749,6 +3749,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260127_1850.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 27 Jan 2026 18:50:41 +0900</pubDate>
       <itunes:duration>243</itunes:duration>
+    </item>
+    <item>
+      <title>嫌儲ウマ娘部5 他99件 - 01/27 19:18</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260127_1917.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260127_1917.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Jan 2026 19:18:15 +0900</pubDate>
+      <itunes:duration>1078</itunes:duration>
     </item>
   </channel>
 </rss>
