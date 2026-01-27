@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Jan 2026 14:56:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 15:20:33 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -3821,6 +3821,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260127_2355.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 27 Jan 2026 23:56:03 +0900</pubDate>
       <itunes:duration>411</itunes:duration>
+    </item>
+    <item>
+      <title>ワイこ、ここは全員とSEXしないと出られない部屋！？ ？？？... 他99件 - 01/28 00:19</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260128_0019.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260128_0019.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Jan 2026 00:19:45 +0900</pubDate>
+      <itunes:duration>1051</itunes:duration>
     </item>
   </channel>
 </rss>
