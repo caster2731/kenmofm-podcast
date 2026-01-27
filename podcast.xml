@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Jan 2026 22:17:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 22:54:33 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -3941,6 +3941,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260128_0716.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 28 Jan 2026 07:16:51 +0900</pubDate>
       <itunes:duration>1130</itunes:duration>
+    </item>
+    <item>
+      <title>超絶円高でNISA民全員死亡へ - 本文読み上げ - 01/28 07:53</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260128_0753.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260128_0753.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Jan 2026 07:53:53 +0900</pubDate>
+      <itunes:duration>338</itunes:duration>
     </item>
   </channel>
 </rss>
