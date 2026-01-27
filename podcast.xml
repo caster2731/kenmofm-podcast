@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Jan 2026 21:18:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 21:56:52 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -3925,6 +3925,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260128_0616.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 28 Jan 2026 06:17:21 +0900</pubDate>
       <itunes:duration>1078</itunes:duration>
+    </item>
+    <item>
+      <title>大分3区が話題に - 本文読み上げ - 01/28 06:56</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260128_0655.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260128_0655.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Jan 2026 06:56:10 +0900</pubDate>
+      <itunes:duration>219</itunes:duration>
     </item>
   </channel>
 </rss>
