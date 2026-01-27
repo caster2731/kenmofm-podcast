@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Jan 2026 07:19:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 07:50:29 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -3717,6 +3717,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260127_1617.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 27 Jan 2026 16:18:18 +0900</pubDate>
       <itunes:duration>1076</itunes:duration>
+    </item>
+    <item>
+      <title>伊藤園、営業利益21.6%、経常利益18.3%、純利益93%... - 本文読み上げ - 01/27 16:50</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260127_1649.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260127_1649.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Jan 2026 16:50:05 +0900</pubDate>
+      <itunes:duration>194</itunes:duration>
     </item>
   </channel>
 </rss>
