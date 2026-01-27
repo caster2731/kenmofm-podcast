@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Jan 2026 20:20:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 20:57:22 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -3909,6 +3909,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260128_0518.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 28 Jan 2026 05:19:33 +0900</pubDate>
       <itunes:duration>1154</itunes:duration>
+    </item>
+    <item>
+      <title>れいわ大石に統一教会文書を突っ込まれた高市早苗、作り笑顔から... - 本文読み上げ - 01/28 05:56</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260128_0556.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260128_0556.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Jan 2026 05:56:38 +0900</pubDate>
+      <itunes:duration>258</itunes:duration>
     </item>
   </channel>
 </rss>
