@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Jan 2026 03:19:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 03:52:13 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -3661,6 +3661,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260127_1217.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Tue, 27 Jan 2026 12:18:11 +0900</pubDate>
       <itunes:duration>1135</itunes:duration>
+    </item>
+    <item>
+      <title>日本人SNSさん、新幹線の自由席に荷物を置いてトレイに行く行... - 本文読み上げ - 01/27 12:51</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260127_1250.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260127_1250.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Jan 2026 12:51:43 +0900</pubDate>
+      <itunes:duration>286</itunes:duration>
     </item>
   </channel>
 </rss>
