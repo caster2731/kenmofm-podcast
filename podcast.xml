@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Wed, 28 Jan 2026 19:48:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 20:18:33 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -22,14 +22,6 @@
       <itunes:name>KenmoFM</itunes:name>
       <itunes:email>ysk.1213@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>スレタイ速報 - 01/17 16:28</title>
-      <description>KenmoFM スレタイ速報</description>
-      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20251218_2020.mp3</guid>
-      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20251218_2020.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 17 Jan 2026 16:28:38 +0900</pubDate>
-      <itunes:duration>133</itunes:duration>
-    </item>
     <item>
       <title>スレタイ速報 - 01/17 16:28</title>
       <description>KenmoFM スレタイ速報</description>
@@ -4021,6 +4013,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260129_0447.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 29 Jan 2026 04:47:25 +0900</pubDate>
       <itunes:duration>308</itunes:duration>
+    </item>
+    <item>
+      <title>家系ラーメン100円ライス食べ放題ヽ´ん`ヽ´ん`シェアする... 他59件 - 01/29 05:17</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260129_0517.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260129_0517.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 29 Jan 2026 05:17:24 +0900</pubDate>
+      <itunes:duration>741</itunes:duration>
     </item>
   </channel>
 </rss>
