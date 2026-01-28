@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Wed, 28 Jan 2026 20:48:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 21:16:45 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -22,14 +22,6 @@
       <itunes:name>KenmoFM</itunes:name>
       <itunes:email>ysk.1213@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>【テレ朝】クレしん→ドラカス 他79件 - 01/17 16:39</title>
-      <description>KenmoFM スレタイ速報</description>
-      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260117_1639.mp3</guid>
-      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260117_1639.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 17 Jan 2026 16:39:34 +0900</pubDate>
-      <itunes:duration>743</itunes:duration>
-    </item>
     <item>
       <title>【急募】この人は、この読後なぜネトウヨになったのか？ - 本文読み上げ - 01/17 17:00</title>
       <description>勢いのあるスレの本文読み上げ</description>
@@ -4021,6 +4013,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260129_0547.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 29 Jan 2026 05:47:30 +0900</pubDate>
       <itunes:duration>331</itunes:duration>
+    </item>
+    <item>
+      <title>参政党・神谷自民党は割れた方がいい。今の自民党って政策が違う... 他59件 - 01/29 06:15</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260129_0615.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260129_0615.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 29 Jan 2026 06:15:33 +0900</pubDate>
+      <itunes:duration>729</itunes:duration>
     </item>
   </channel>
 </rss>
