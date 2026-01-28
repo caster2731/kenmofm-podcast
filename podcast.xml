@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Wed, 28 Jan 2026 22:19:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 22:49:47 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -22,14 +22,6 @@
       <itunes:name>KenmoFM</itunes:name>
       <itunes:email>ysk.1213@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>【高市悲報】鈴木幹事長ガチで解散は知らなかった。ちなみに温厚... 他79件 - 01/17 17:35</title>
-      <description>KenmoFM スレタイ速報</description>
-      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260117_1735.mp3</guid>
-      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260117_1735.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 17 Jan 2026 17:35:59 +0900</pubDate>
-      <itunes:duration>889</itunes:duration>
-    </item>
     <item>
       <title>【悲報】ハタハタ過去最低だった去年の5％しか獲れずに終わる 他29件 - 01/17 18:19</title>
       <description>KenmoFM スレタイ速報</description>
@@ -4021,6 +4013,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260129_0718.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 29 Jan 2026 07:18:47 +0900</pubDate>
       <itunes:duration>726</itunes:duration>
+    </item>
+    <item>
+      <title>【悲報】高市首相は消費税減税に触れなくなった - 本文読み上げ - 01/29 07:49</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260129_0749.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260129_0749.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 29 Jan 2026 07:49:02 +0900</pubDate>
+      <itunes:duration>264</itunes:duration>
     </item>
   </channel>
 </rss>
