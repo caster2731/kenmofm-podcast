@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Wed, 28 Jan 2026 06:52:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 07:19:39 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -22,14 +22,6 @@
       <itunes:name>KenmoFM</itunes:name>
       <itunes:email>ysk.1213@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>本文読み上げ - 01/16 21:50</title>
-      <description>勢いのあるスレの本文読み上げ</description>
-      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260116_2150.mp3</guid>
-      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260116_2150.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 16 Jan 2026 21:50:31 +0900</pubDate>
-      <itunes:duration>528</itunes:duration>
-    </item>
     <item>
       <title>本文読み上げ - 01/16 22:50</title>
       <description>勢いのあるスレの本文読み上げ</description>
@@ -4021,6 +4013,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260128_1551.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 28 Jan 2026 15:51:32 +0900</pubDate>
       <itunes:duration>335</itunes:duration>
+    </item>
+    <item>
+      <title>【悲報】高市首相、統一教会団体のパーティー券購入を隠蔽！文春... 他99件 - 01/28 16:17</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260128_1617.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260128_1617.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Jan 2026 16:17:57 +0900</pubDate>
+      <itunes:duration>1064</itunes:duration>
     </item>
   </channel>
 </rss>
