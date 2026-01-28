@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Wed, 28 Jan 2026 02:19:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 02:51:26 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -4005,6 +4005,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260128_1118.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 28 Jan 2026 11:19:00 +0900</pubDate>
       <itunes:duration>1117</itunes:duration>
+    </item>
+    <item>
+      <title>麻生太郎85、高市早苗が当選後に強行する賛否が別れる法案をう... - 本文読み上げ - 01/28 11:50</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260128_1150.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260128_1150.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Jan 2026 11:50:54 +0900</pubDate>
+      <itunes:duration>250</itunes:duration>
     </item>
   </channel>
 </rss>
