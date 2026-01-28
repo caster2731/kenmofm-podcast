@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Wed, 28 Jan 2026 03:17:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 03:52:36 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -22,14 +22,6 @@
       <itunes:name>KenmoFM</itunes:name>
       <itunes:email>ysk.1213@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>ケンモ怪談 - 12/27 21:50</title>
-      <description>KenmoFM 怪談コーナー</description>
-      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20251227_2150.mp3</guid>
-      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20251227_2150.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 27 Dec 2025 21:50:34 +0900</pubDate>
-      <itunes:duration>385</itunes:duration>
-    </item>
     <item>
       <title>ケンモ怪談 - 01/03 14:18</title>
       <description>KenmoFM 怪談コーナー</description>
@@ -4021,6 +4013,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260128_1216.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 28 Jan 2026 12:16:44 +0900</pubDate>
       <itunes:duration>1134</itunes:duration>
+    </item>
+    <item>
+      <title>【高市悲報】文春高市早苗事務所 統一教会逮捕社長のパー券購... - 本文読み上げ - 01/28 12:52</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260128_1251.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260128_1251.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Jan 2026 12:52:06 +0900</pubDate>
+      <itunes:duration>275</itunes:duration>
     </item>
   </channel>
 </rss>
