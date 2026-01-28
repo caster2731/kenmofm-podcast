@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Wed, 28 Jan 2026 05:20:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 06:52:34 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -22,14 +22,6 @@
       <itunes:name>KenmoFM</itunes:name>
       <itunes:email>ysk.1213@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>本文読み上げ - 01/16 19:50</title>
-      <description>勢いのあるスレの本文読み上げ</description>
-      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260116_1950.mp3</guid>
-      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260116_1950.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Fri, 16 Jan 2026 19:50:28 +0900</pubDate>
-      <itunes:duration>559</itunes:duration>
-    </item>
     <item>
       <title>本文読み上げ - 01/16 21:50</title>
       <description>勢いのあるスレの本文読み上げ</description>
@@ -4021,6 +4013,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260128_1418.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 28 Jan 2026 14:18:38 +0900</pubDate>
       <itunes:duration>1154</itunes:duration>
+    </item>
+    <item>
+      <title>【悲報】警察が1億ドル宝石強盗を逮捕→トランプ政権が容疑者を... - 本文読み上げ - 01/28 15:51</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260128_1551.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260128_1551.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Jan 2026 15:51:32 +0900</pubDate>
+      <itunes:duration>335</itunes:duration>
     </item>
   </channel>
 </rss>
