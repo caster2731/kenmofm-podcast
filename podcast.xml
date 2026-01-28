@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Wed, 28 Jan 2026 10:49:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 11:18:28 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -22,14 +22,6 @@
       <itunes:name>KenmoFM</itunes:name>
       <itunes:email>ysk.1213@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>本文読み上げ - 01/17 04:53</title>
-      <description>勢いのあるスレの本文読み上げ</description>
-      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260117_0453.mp3</guid>
-      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260117_0453.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 17 Jan 2026 04:53:34 +0900</pubDate>
-      <itunes:duration>234</itunes:duration>
-    </item>
     <item>
       <title>本文読み上げ - 01/17 05:52</title>
       <description>勢いのあるスレの本文読み上げ</description>
@@ -4021,6 +4013,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260128_1949.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 28 Jan 2026 19:49:28 +0900</pubDate>
       <itunes:duration>252</itunes:duration>
+    </item>
+    <item>
+      <title>名優・黒沢年雄81多くの方々が高市さんを責める。弱い者虐めは... 他99件 - 01/28 20:17</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260128_2017.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260128_2017.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Jan 2026 20:17:00 +0900</pubDate>
+      <itunes:duration>993</itunes:duration>
     </item>
   </channel>
 </rss>
