@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Wed, 28 Jan 2026 01:50:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 02:19:48 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -3997,6 +3997,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260128_1049.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Wed, 28 Jan 2026 10:49:27 +0900</pubDate>
       <itunes:duration>258</itunes:duration>
+    </item>
+    <item>
+      <title>【急募】霜降り明星こいつのイメージ 他99件 - 01/28 11:19</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260128_1118.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260128_1118.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Jan 2026 11:19:00 +0900</pubDate>
+      <itunes:duration>1117</itunes:duration>
     </item>
   </channel>
 </rss>
