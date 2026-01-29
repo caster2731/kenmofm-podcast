@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Wed, 28 Jan 2026 23:49:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 00:17:50 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -22,14 +22,6 @@
       <itunes:name>KenmoFM</itunes:name>
       <itunes:email>ysk.1213@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>【高市悲報】吉村はんなんやオラァ～！府知事辞めてぇ、もっかい... 他79件 - 01/17 19:16</title>
-      <description>KenmoFM スレタイ速報</description>
-      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260117_1915.mp3</guid>
-      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260117_1915.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 17 Jan 2026 19:16:12 +0900</pubDate>
-      <itunes:duration>938</itunes:duration>
-    </item>
     <item>
       <title>【高市悲報】吉村はんなんやオラァ～！府知事辞めてぇ、もっかい... 他79件 - 01/17 19:17</title>
       <description>KenmoFM スレタイ速報</description>
@@ -4021,6 +4013,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260129_0848.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 29 Jan 2026 08:48:38 +0900</pubDate>
       <itunes:duration>251</itunes:duration>
+    </item>
+    <item>
+      <title>【芸能人】女優の井桁弘恵２８、中学時代の成績はオール５【早稲... 他59件 - 01/29 09:16</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260129_0916.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260129_0916.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 29 Jan 2026 09:16:31 +0900</pubDate>
+      <itunes:duration>748</itunes:duration>
     </item>
   </channel>
 </rss>
