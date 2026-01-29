@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Jan 2026 05:06:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 05:17:06 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -22,14 +22,6 @@
       <itunes:name>KenmoFM</itunes:name>
       <itunes:email>ysk.1213@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>水樹奈々私の代表作ですかえーと 他79件 - 01/17 23:20</title>
-      <description>KenmoFM スレタイ速報</description>
-      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260117_2320.mp3</guid>
-      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260117_2320.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 17 Jan 2026 23:20:48 +0900</pubDate>
-      <itunes:duration>853</itunes:duration>
-    </item>
     <item>
       <title>真夜中のリモート面接 - ケンモ怪談 - 01/17 23:56</title>
       <description>KenmoFM 怪談コーナー</description>
@@ -4021,6 +4013,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260129_1315.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 29 Jan 2026 13:15:50 +0900</pubDate>
       <itunes:duration>737</itunes:duration>
+    </item>
+    <item>
+      <title>【高市悲報】学生の自殺、2年連続で過去最高数。こども家庭庁解... 他59件 - 01/29 14:15</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260129_1415.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260129_1415.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 29 Jan 2026 14:15:51 +0900</pubDate>
+      <itunes:duration>688</itunes:duration>
     </item>
   </channel>
 </rss>
