@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Jan 2026 03:16:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 03:51:33 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -22,14 +22,6 @@
       <itunes:name>KenmoFM</itunes:name>
       <itunes:email>ysk.1213@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>フランス人寿司は高いし量が少ない。コスパが悪いフランスで寿司... 他29件 - 01/17 22:21</title>
-      <description>KenmoFM スレタイ速報</description>
-      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260117_2220.mp3</guid>
-      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260117_2220.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sat, 17 Jan 2026 22:21:17 +0900</pubDate>
-      <itunes:duration>840</itunes:duration>
-    </item>
     <item>
       <title>【悲報】X民最初から分かってたオールドメディアがまた貶めよう... - 本文読み上げ - 01/17 22:53</title>
       <description>勢いのあるスレの本文読み上げ</description>
@@ -4021,6 +4013,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260129_1215.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 29 Jan 2026 12:15:39 +0900</pubDate>
       <itunes:duration>644</itunes:duration>
+    </item>
+    <item>
+      <title>【高市も注目】選挙後の中道改革連合の内紛・分裂・崩壊について... - 本文読み上げ - 01/29 12:50</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260129_1250.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260129_1250.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 29 Jan 2026 12:50:00 +0900</pubDate>
+      <itunes:duration>280</itunes:duration>
     </item>
   </channel>
 </rss>
