@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Jan 2026 07:17:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 07:50:42 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -22,14 +22,6 @@
       <itunes:name>KenmoFM</itunes:name>
       <itunes:email>ysk.1213@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>玉木宏46、柔術で世界3位 他79件 - 01/18 01:18</title>
-      <description>KenmoFM スレタイ速報</description>
-      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260118_0118.mp3</guid>
-      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260118_0118.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 18 Jan 2026 01:18:31 +0900</pubDate>
-      <itunes:duration>166</itunes:duration>
-    </item>
     <item>
       <title>鏡の中の「いいね」 - ケンモ怪談 - 01/18 01:55</title>
       <description>KenmoFM 怪談コーナー</description>
@@ -4021,6 +4013,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260129_1616.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 29 Jan 2026 16:16:21 +0900</pubDate>
       <itunes:duration>1162</itunes:duration>
+    </item>
+    <item>
+      <title>★1 【悲報】金価格、1g30000円突破金属買わない馬鹿死... - 本文読み上げ - 01/29 16:49</title>
+      <description>勢いのあるスレの本文読み上げ</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260129_1649.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260129_1649.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 29 Jan 2026 16:49:50 +0900</pubDate>
+      <itunes:duration>323</itunes:duration>
     </item>
   </channel>
 </rss>
