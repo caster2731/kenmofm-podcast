@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Jan 2026 09:51:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 10:19:45 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -22,14 +22,6 @@
       <itunes:name>KenmoFM</itunes:name>
       <itunes:email>ysk.1213@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>ホラー要素を加え、不気味に仕上げたピノキオの1/6スケール可... 他79件 - 01/18 02:17</title>
-      <description>KenmoFM スレタイ速報</description>
-      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260118_0216.mp3</guid>
-      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260118_0216.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 18 Jan 2026 02:17:04 +0900</pubDate>
-      <itunes:duration>804</itunes:duration>
-    </item>
     <item>
       <title>存在しない駅のスタンプラリー - ケンモ怪談 - 01/18 02:55</title>
       <description>KenmoFM 怪談コーナー</description>
@@ -4021,6 +4013,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260129_1851.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 29 Jan 2026 18:51:04 +0900</pubDate>
       <itunes:duration>274</itunes:duration>
+    </item>
+    <item>
+      <title>参政党神谷私は移民を10%までOKとか 1200万人まで入れ... 他99件 - 01/29 19:17</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260129_1917.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260129_1917.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 29 Jan 2026 19:17:46 +0900</pubDate>
+      <itunes:duration>1182</itunes:duration>
     </item>
   </channel>
 </rss>
