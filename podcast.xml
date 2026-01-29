@@ -13,7 +13,7 @@
       <link>https://caster2731.github.io/kenmofm-podcast/podcast.xml</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Jan 2026 07:50:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 08:17:34 +0000</lastBuildDate>
     <itunes:author>KenmoFM</itunes:author>
     <itunes:category text="News"/>
     <itunes:image href="https://caster2731.github.io/kenmofm-podcast/cover.jpg"/>
@@ -22,14 +22,6 @@
       <itunes:name>KenmoFM</itunes:name>
       <itunes:email>ysk.1213@gmail.com</itunes:email>
     </itunes:owner>
-    <item>
-      <title>鏡の中の「いいね」 - ケンモ怪談 - 01/18 01:55</title>
-      <description>KenmoFM 怪談コーナー</description>
-      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260118_0155.mp3</guid>
-      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_kaidan_20260118_0155.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Sun, 18 Jan 2026 01:55:40 +0900</pubDate>
-      <itunes:duration>267</itunes:duration>
-    </item>
     <item>
       <title>ホラー要素を加え、不気味に仕上げたピノキオの1/6スケール可... 他79件 - 01/18 02:15</title>
       <description>KenmoFM スレタイ速報</description>
@@ -4021,6 +4013,14 @@
       <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_body_20260129_1649.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Thu, 29 Jan 2026 16:49:50 +0900</pubDate>
       <itunes:duration>323</itunes:duration>
+    </item>
+    <item>
+      <title>自衛隊徴兵官君が、ケンモジくんだね？つべこべ言わずに来いほい... 他99件 - 01/29 17:16</title>
+      <description>KenmoFM スレタイ速報</description>
+      <guid isPermaLink="false">https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260129_1716.mp3</guid>
+      <enclosure url="https://caster2731.github.io/kenmofm-podcast/kenmo_thread_20260129_1716.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 29 Jan 2026 17:16:06 +0900</pubDate>
+      <itunes:duration>1063</itunes:duration>
     </item>
   </channel>
 </rss>
